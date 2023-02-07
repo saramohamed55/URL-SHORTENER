@@ -1,4 +1,4 @@
 {
-    "mongoURL":"mongodb+srv://Sarah_mo:a7aneek12@cluster0.myhqyhp.mongodb.net/?retryWrites=true&w=majority",
+    "mongoURL":"mongodb+srv://Sarah_mo:password@cluster0.myhqyhp.mongodb.net/?retryWrites=true&w=majority",
     "baseURL":"http://localhost:5000"
 }
